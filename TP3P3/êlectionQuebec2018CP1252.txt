@@ -1,0 +1,940 @@
+1	Abitibi-Est	Parti québécois	élizabeth 	Larouche
+1	Abitibi-Est	Citoyens au pouvoir du Québec	éric 	Caron
+1	Abitibi-Est	Parti libéral du Québec/Quebec Liberal Party	Guy 	Bourgeois
+1	Abitibi-Est	Québec solidaire	Lyne 	Cyr
+1	Abitibi-Est	Parti vert du Québec/Green Party of Québec	Mélina 	Paquette
+1	Abitibi-Est	Coalition avenir Québec - L'équipe Franéois Legault	Pierre 	Dufour
+2	Abitibi-Ouest	Parti conservateur du Québec / Conservative Party of Québec	Eric 	Lacroix
+2	Abitibi-Ouest	Parti libéral du Québec/Quebec Liberal Party	Martin 	Veilleux
+2	Abitibi-Ouest	Indépendant(e)	Maxim 	Sylvestre
+2	Abitibi-Ouest	Québec solidaire	Rose 	Marquis
+2	Abitibi-Ouest	Citoyens au pouvoir du Québec	Stéphane 	Lévesque
+2	Abitibi-Ouest	Coalition avenir Québec - L'équipe Franéois Legault	Suzanne 	Blais
+2	Abitibi-Ouest	Parti québécois	Sylvain 	Vachon
+2	Abitibi-Ouest	Parti vert du Québec/Green Party of Québec	Yan-Dominic 	Couture
+3	Acadie	Parti libéral du Québec/Quebec Liberal Party	Christine 	St-Pierre
+3	Acadie	Parti québécois	Farida 	Sam
+3	Acadie	Parti conservateur du Québec / Conservative Party of Québec	Jocelyn 	Chouinard
+3	Acadie	Parti vert du Québec/Green Party of Québec	Laurence 	Sicotte
+3	Acadie	Nouveau Parti démocratique du Québec	Michel 	Welt
+3	Acadie	Coalition avenir Québec - L'équipe Franéois Legault	Sophie 	Chiasson
+3	Acadie	Québec solidaire	Viviane 	Martinova-Croteau
+3	Acadie	Parti marxiste-léniniste du Québec	Yvon 	Breton
+4	Anjou-Louis-Riel	Parti vert du Québec/Green Party of Québec	Hamza 	Madani
+4	Anjou-Louis-Riel	Parti québécois	Karl 	Dugal
+4	Anjou-Louis-Riel	Parti libéral du Québec/Quebec Liberal Party	Lise 	Thériault
+4	Anjou-Louis-Riel	Québec solidaire	Marie-Josée 	Forget
+4	Anjou-Louis-Riel	Coalition avenir Québec - L'équipe Franéois Legault	Michéle 	Gamelin
+4	Anjou-Louis-Riel	Nouveau Parti démocratique du Québec	Vincent 	Henes
+5	Argenteuil	Coalition avenir Québec - L'équipe Franéois Legault	Agnés 	Grondin
+5	Argenteuil	Parti libéral du Québec/Quebec Liberal Party	Bernard 	Bigras-Denis
+5	Argenteuil	Parti vert du Québec/Green Party of Québec	Carole 	Thériault
+5	Argenteuil	Québec solidaire	Céline 	Lachapelle
+5	Argenteuil	Citoyens au pouvoir du Québec	Louise 	Wiseman
+5	Argenteuil	Parti québécois	Patrick 	Cété
+5	Argenteuil	Parti conservateur du Québec / Conservative Party of Québec	Sherwin 	Edwards
+5	Argenteuil	Parti libre	Stéphanie 	Boyer
+5	Argenteuil	Indépendant(e)	Yves 	St-Denis
+6	Arthabaska	Coalition avenir Québec - L'équipe Franéois Legault	éric 	Lefebvre
+6	Arthabaska	Parti québécois	Jacques 	Daigle
+6	Arthabaska	Alliance provinciale du Québec	Jean 	Landry
+6	Arthabaska	Parti vert du Québec/Green Party of Québec	Jean-Charles 	Pelland
+6	Arthabaska	Parti conservateur du Québec / Conservative Party of Québec	Lisette Guay 	Gaudreault
+6	Arthabaska	Parti libéral du Québec/Quebec Liberal Party	Pierre 	Poirier
+6	Arthabaska	Québec solidaire	William 	Champigny-Fortier
+7	Beauce-Nord	Parti québécois	Daniel 	Perron
+7	Beauce-Nord	Québec solidaire	Fernand 	Dorval
+7	Beauce-Nord	Parti conservateur du Québec / Conservative Party of Québec	Isabelle 	Villeneuve
+7	Beauce-Nord	Coalition avenir Québec - L'équipe Franéois Legault	Luc 	Provenéal
+7	Beauce-Nord	Parti libéral du Québec/Quebec Liberal Party	Myriam 	Taschereau
+7	Beauce-Nord	Citoyens au pouvoir du Québec	Nicole 	Goulet
+8	Beauce-Sud	Parti vert du Québec/Green Party of Québec	Cassandre 	Poulin
+8	Beauce-Sud	Québec solidaire	Diane 	Vincent
+8	Beauce-Sud	Parti québécois	Guillaume 	Grondin
+8	Beauce-Sud	Parti 51	Hans 	Mercier
+8	Beauce-Sud	Citoyens au pouvoir du Québec	Jean 	Paquet
+8	Beauce-Sud	Parti conservateur du Québec / Conservative Party of Québec	Milan 	Jovanovic
+8	Beauce-Sud	Parti libéral du Québec/Quebec Liberal Party	Paul 	Busque
+8	Beauce-Sud	Coalition avenir Québec - L'équipe Franéois Legault	Samuel 	Poulin
+9	Beauharnois	Coalition avenir Québec - L'équipe Franéois Legault	Claude 	Reid
+9	Beauharnois	Parti libéral du Québec/Quebec Liberal Party	Félix 	Rhéaume
+9	Beauharnois	Nouveau Parti démocratique du Québec	Franéois 	Mantion
+9	Beauharnois	Parti québécois	Mireille 	Théorét
+9	Beauharnois	Québec solidaire	Pierre-Paul 	St-Onge
+9	Beauharnois	Citoyens au pouvoir du Québec	Tommy 	Mathieu
+9	Beauharnois	Parti conservateur du Québec / Conservative Party of Québec	Yannick 	Campeau
+10	Bellechasse	Parti québécois	Benoét 	Béchard
+10	Bellechasse	Québec solidaire	Benoit 	Comeau
+10	Bellechasse	Parti conservateur du Québec / Conservative Party of Québec	Dominique 	Messner
+10	Bellechasse	Parti libéral du Québec/Quebec Liberal Party	Dominique 	Vien
+10	Bellechasse	Alliance provinciale du Québec	Sébastien 	Roy
+10	Bellechasse	Bloc pot	Simon 	Guay
+10	Bellechasse	Coalition avenir Québec - L'équipe Franéois Legault	Stéphanie 	Lachance
+11	Berthier	Parti québécois	André 	Villeneuve
+11	Berthier	Coalition avenir Québec - L'équipe Franéois Legault	Caroline 	Proulx
+11	Berthier	Parti vert du Québec/Green Party of Québec	Jéréme 	St-Jean
+11	Berthier	Québec solidaire	Louise 	Beaudry
+11	Berthier	Citoyens au pouvoir du Québec	Rémi 	Bourdon
+11	Berthier	Parti libéral du Québec/Quebec Liberal Party	Robert 	Magnan
+12	Bertrand	Parti libre	Benoit 	Martin
+12	Bertrand	Citoyens au pouvoir du Québec	Benoét 	Pigeon
+12	Bertrand	Parti libéral du Québec/Quebec Liberal Party	Diane de 	Passillé
+12	Bertrand	Parti québécois	Gilbert 	Lafreniére
+12	Bertrand	Parti conservateur du Québec / Conservative Party of Québec	Kathy 	Laframboise
+12	Bertrand	Québec solidaire	Myléne 	Jaccoud
+12	Bertrand	Coalition avenir Québec - L'équipe Franéois Legault	Nadine 	Girault
+12	Bertrand	Parti vert du Québec/Green Party of Québec	Natacha 	Alarie
+13	Blainville	Parti québécois	Gabriel 	Gousse
+13	Blainville	Citoyens au pouvoir du Québec	Jean 	Bastien
+13	Blainville	Parti libéral du Québec/Quebec Liberal Party	Lucia 	Carvalho
+13	Blainville	Coalition avenir Québec - L'équipe Franéois Legault	Mario 	Laframboise
+13	Blainville	Nouveau Parti démocratique du Québec	Thierry 	Gervais
+13	Blainville	Parti vert du Québec/Green Party of Québec	Valérie 	Fortier
+13	Blainville	Québec solidaire	William 	Lepage
+14	Bonaventure	Québec solidaire	Catherine Cyr 	Wright
+14	Bonaventure	Citoyens au pouvoir du Québec	Daniel 	Bouchard
+14	Bonaventure	Parti libéral du Québec/Quebec Liberal Party	Franéois 	Whittom
+14	Bonaventure	Indépendant(e)	Guy 	Gallant
+14	Bonaventure	Parti vert du Québec/Green Party of Québec	Heather 	Imhoff
+14	Bonaventure	Coalition avenir Québec - L'équipe Franéois Legault	Héléne 	Desaulniers
+14	Bonaventure	Parti québécois	Sylvain 	Roy
+15	Borduas	Parti conservateur du Québec / Conservative Party of Québec	André 	Lecompte
+15	Borduas	Nouveau Parti démocratique du Québec	André 	Martin
+15	Borduas	Québec solidaire	Annie 	Desharnais
+15	Borduas	Parti québécois	Cédric 	G.-Ducharme
+15	Borduas	Parti libéral du Québec/Quebec Liberal Party	Martin 	Nichols
+15	Borduas	Parti vert du Québec/Green Party of Québec	Nicolas 	Gravel
+15	Borduas	Bloc pot	Razz 	E.
+15	Borduas	Coalition avenir Québec - L'équipe Franéois Legault	Simon 	Jolin-Barrette
+15	Borduas	Citoyens au pouvoir du Québec	Stéphane 	Thévenot
+16	Bourassa-Sauvé	Nouveau Parti démocratique du Québec	Abed 	Louis
+16	Bourassa-Sauvé	Québec solidaire	Alejandra Zaga 	Mendez
+16	Bourassa-Sauvé	Indépendant(e)	Jean Marie Floriant 	Ndzana
+16	Bourassa-Sauvé	Bloc pot	Jean-Franéois 	Brunet
+16	Bourassa-Sauvé	Coalition avenir Québec - L'équipe Franéois Legault	Julie 	Séide
+16	Bourassa-Sauvé	Parti vert du Québec/Green Party of Québec	Karina 	Barros
+16	Bourassa-Sauvé	Parti québécois	Karine 	Gauvin
+16	Bourassa-Sauvé	Parti conservateur du Québec / Conservative Party of Québec	Michel 	Boissonneault
+16	Bourassa-Sauvé	Parti libéral du Québec/Quebec Liberal Party	Paule 	Robitaille
+17	Bourassa-Sauvé	Changement intégrité pour notre Québec	Sabrinel 	Laouadi
+17	Bourget	Parti marxiste-léniniste du Québec	Claude 	Brunelle
+17	Bourget	Citoyens au pouvoir du Québec	Dany 	Roy
+17	Bourget	Parti québécois	Maka 	Kotto
+17	Bourget	Parti vert du Québec/Green Party of Québec	Marieke 	Hassell-Crépeau
+17	Bourget	Québec solidaire	Marléne 	Lessard
+17	Bourget	Coalition avenir Québec - L'équipe Franéois Legault	Richard 	Campeau
+17	Bourget	Parti libéral du Québec/Quebec Liberal Party	Vincent 	Girard
+18	Brome-Missisquoi	Québec solidaire	Alexandre 	Legault
+18	Brome-Missisquoi	Parti québécois	Andréanne 	Larouche
+18	Brome-Missisquoi	Parti vert du Québec/Green Party of Québec	Elisabeth 	Dionne
+18	Brome-Missisquoi	Parti libéral du Québec/Quebec Liberal Party	Ingrid 	Marini
+18	Brome-Missisquoi	Coalition avenir Québec - L'équipe Franéois Legault	Isabelle 	Charest
+18	Brome-Missisquoi	Citoyens au pouvoir du Québec	Manon 	Gamache
+18	Brome-Missisquoi	Voie du peuple	Marc 	Alarie
+19	Chambly	Bloc pot	Benjamin 	Vachon
+19	Chambly	Parti vert du Québec/Green Party of Québec	Camille B. 	Jannard
+19	Chambly	Parti québécois	Christian 	Picard
+19	Chambly	Québec solidaire	Francis 	Vigeant
+19	Chambly	Parti libéral du Québec/Quebec Liberal Party	Franéois 	Villeneuve
+19	Chambly	Changement intégrité pour notre Québec	Gilles 	Guindon
+19	Chambly	Nouveau Parti démocratique du Québec	Gilles 	Létourneau
+19	Chambly	Parti conservateur du Québec / Conservative Party of Québec	Guy 	L'Heureux
+19	Chambly	Coalition avenir Québec - L'équipe Franéois Legault	Jean-Franéois 	Roberge
+20	Champlain	Bloc pot	Anthony 	Rouss
+20	Champlain	équipe autonomiste	éric 	Gauthier
+20	Champlain	Parti québécois	Gaétan 	Leclerc
+20	Champlain	Parti libéral du Québec/Quebec Liberal Party	Pierre Michel 	Auger
+20	Champlain	Parti conservateur du Québec / Conservative Party of Québec	Pierre-Benoit 	Fortin
+20	Champlain	Coalition avenir Québec - L'équipe Franéois Legault	Sonia 	Lebel
+20	Champlain	Parti vert du Québec/Green Party of Québec	Stéphanie 	Dufresne
+20	Champlain	Québec solidaire	Steven Roy 	Cullen
+21	Chapleau	Québec solidaire	Alexandre 	Albert
+21	Chapleau	Parti québécois	Blake 	Ippersiel
+21	Chapleau	Parti marxiste-léniniste du Québec	Franéoise 	Roy
+21	Chapleau	Parti libéral du Québec/Quebec Liberal Party	Marc 	Carriére
+21	Chapleau	Coalition avenir Québec - L'équipe Franéois Legault	Mathieu 	Lévesque
+21	Chapleau	Parti conservateur du Québec / Conservative Party of Québec	Rowen 	Tanguay
+22	Charlesbourg	Parti québécois	Annie 	Morin
+22	Charlesbourg	équipe autonomiste	Daniel 	Pelletier
+22	Charlesbourg	Québec solidaire	élisabeth 	Germain
+22	Charlesbourg	Parti libéral du Québec/Quebec Liberal Party	Franéois 	Blais
+22	Charlesbourg	Coalition avenir Québec - L'équipe Franéois Legault	Jonatan 	Julien
+22	Charlesbourg	Parti conservateur du Québec / Conservative Party of Québec	Valérie 	Tremblay
+23	Charlevoix-Céte-de-Beaupré	Citoyens au pouvoir du Québec	Albert 	Chiasson
+23	Charlevoix-Céte-de-Beaupré	Nouveau Parti démocratique du Québec	Andréanne 	Bouchard
+23	Charlevoix-Céte-de-Beaupré	Parti libéral du Québec/Quebec Liberal Party	Caroline 	Simard
+23	Charlevoix-Céte-de-Beaupré	Coalition avenir Québec - L'équipe Franéois Legault	émilie 	Foster
+23	Charlevoix-Céte-de-Beaupré	Québec solidaire	Jessica 	Crossan
+23	Charlevoix-Céte-de-Beaupré	Parti québécois	Nathalie 	Leclerc
+24	Chéteauguay	Parti québécois	Jean-Philippe 	Thériault
+24	Chéteauguay	Parti conservateur du Québec / Conservative Party of Québec	Jeff 	Benoit
+24	Chéteauguay	Coalition avenir Québec - L'équipe Franéois Legault	Marie-Chantal 	Chassé
+24	Chéteauguay	Nouveau Parti démocratique du Québec	Marie-éve 	Masucci-Lauzon
+24	Chéteauguay	Parti libéral du Québec/Quebec Liberal Party	Pierre 	Moreau
+24	Chéteauguay	Québec solidaire	Sandrine 	Garcia-McDiarmid
+24	Chéteauguay	Parti vert du Québec/Green Party of Québec	Stephanie 	Stevenson
+25	Chauveau	Parti conservateur du Québec / Conservative Party of Québec	Adrien 	Pouliot
+25	Chauveau	Québec solidaire	Francis 	Lajoie
+25	Chauveau	Parti québécois	Jonathan 	Gagnon
+25	Chauveau	Nouveau Parti démocratique du Québec	Mona 	Belleau
+25	Chauveau	Parti vert du Québec/Green Party of Québec	Sabir 	Isufi
+25	Chauveau	Coalition avenir Québec - L'équipe Franéois Legault	Sylvain 	Lévesque
+25	Chauveau	Parti libéral du Québec/Quebec Liberal Party	Véronyque 	Tremblay
+26	Chicoutimi	Coalition avenir Québec - L'équipe Franéois Legault	Andrée 	Laforest
+26	Chicoutimi	Parti conservateur du Québec / Conservative Party of Québec	Léonard 	Gagnon
+26	Chicoutimi	Parti libéral du Québec/Quebec Liberal Party	Marie-Josée 	Morency
+26	Chicoutimi	Parti québécois	Mireille 	Jean
+26	Chicoutimi	Québec solidaire	Pierre 	Dostie
+26	Chicoutimi	Parti vert du Québec/Green Party of Québec	Tommy 	Philippe
+27	Chomedey	Coalition avenir Québec - L'équipe Franéois Legault	Alice 	Abou-Khalil
+27	Chomedey	Parti vert du Québec/Green Party of Québec	Fatine 	Kabbaj
+27	Chomedey	Parti libéral du Québec/Quebec Liberal Party	Guy 	Ouellette
+27	Chomedey	Parti conservateur du Québec / Conservative Party of Québec	Nick 	Keramarios
+27	Chomedey	Nouveau Parti démocratique du Québec	Omar 	El-Harrache
+27	Chomedey	Parti québécois	Ouerdia Nacera 	Beddad
+27	Chomedey	Québec solidaire	Rabah 	Moulla
+28	Chutes-de-la-Chaudiére	Nouveau Parti démocratique du Québec	Evelyne 	Henry
+28	Chutes-de-la-Chaudiére	Parti libéral du Québec/Quebec Liberal Party	Ghyslain 	Vaillancourt
+28	Chutes-de-la-Chaudiére	Coalition avenir Québec - L'équipe Franéois Legault	Marc 	Picard
+28	Chutes-de-la-Chaudiére	Québec solidaire	Olivier 	Bolduc
+28	Chutes-de-la-Chaudiére	Parti conservateur du Québec / Conservative Party of Québec	Philippe 	Gaboury
+28	Chutes-de-la-Chaudiére	Parti québécois	Serge 	Bonin
+28	Chutes-de-la-Chaudiére	Citoyens au pouvoir du Québec	Stéphane 	Blais
+29	Céte-du-Sud	Bloc pot	Gabriel 	Dubé
+29	Céte-du-Sud	Québec solidaire	Guillaume 	Dufour
+29	Céte-du-Sud	Parti conservateur du Québec / Conservative Party of Québec	Marc 	Roussin
+29	Céte-du-Sud	Coalition avenir Québec - L'équipe Franéois Legault	Marie-Eve 	Proulx
+29	Céte-du-Sud	Parti québécois	Michel 	Forget
+29	Céte-du-Sud	Parti nul	Renaud 	Blais
+29	Céte-du-Sud	Parti libéral du Québec/Quebec Liberal Party	Simon 	Laboissonniére
+30	D'Arcy-McGee	Parti libéral du Québec/Quebec Liberal Party	David 	Birnbaum
+30	D'Arcy-McGee	Parti marxiste-léniniste du Québec	Diane 	Johnston
+30	D'Arcy-McGee	Parti québécois	Eliane 	Pion
+30	D'Arcy-McGee	Québec solidaire	Jean-Claude 	Kumuyange
+30	D'Arcy-McGee	Parti vert du Québec/Green Party of Québec	Jérémie 	Alarco
+30	D'Arcy-McGee	Nouveau Parti démocratique du Québec	Leigh 	Smit
+30	D'Arcy-McGee	Coalition avenir Québec - L'équipe Franéois Legault	Mélodie 	Cohn
+30	D'Arcy-McGee	Parti conservateur du Québec / Conservative Party of Québec	Yaniv 	Loran
+31	Deux-Montagnes	Québec solidaire	Audrey 	Lesage-Lanthier
+31	Deux-Montagnes	Coalition avenir Québec - L'équipe Franéois Legault	Benoit 	Charette
+31	Deux-Montagnes	Parti québécois	Daniel 	Goyer
+31	Deux-Montagnes	Parti conservateur du Québec / Conservative Party of Québec	Delia 	Fodor
+31	Deux-Montagnes	Citoyens au pouvoir du Québec	Denis 	Paré
+31	Deux-Montagnes	Changement intégrité pour notre Québec	Eric 	Emond
+31	Deux-Montagnes	Parti libéral du Québec/Quebec Liberal Party	Fabienne Fatou 	Diop
+31	Deux-Montagnes	Bloc pot	Hans Roker 	Jr
+31	Deux-Montagnes	Parti vert du Québec/Green Party of Québec	Isabelle 	Dagenais
+31	Deux-Montagnes	Parti libre	Martin 	Brulé
+32	Drummond-Bois-Francs	Parti québécois	Diane 	Roy
+32	Drummond-Bois-Francs	Parti conservateur du Québec / Conservative Party of Québec	Francois 	Picard
+32	Drummond-Bois-Francs	Parti libéral du Québec/Quebec Liberal Party	Kevin 	Deland
+32	Drummond-Bois-Francs	Québec solidaire	Lannéck 	Dinard
+32	Drummond-Bois-Francs	Coalition avenir Québec - L'équipe Franéois Legault	Sébastien 	Schneeberger
+32	Drummond-Bois-Francs	équipe autonomiste	Steve 	Therion
+32	Drummond-Bois-Francs	Indépendant(e)	Sylvain 	Marcoux
+33	Dubuc	Parti conservateur du Québec / Conservative Party of Québec	Franéois 	Pelletier
+33	Dubuc	Coalition avenir Québec - L'équipe Franéois Legault	Franéois 	Tremblay
+33	Dubuc	Parti nul	Line 	Bélanger
+33	Dubuc	Québec solidaire	Marie Francine 	Bienvenue
+33	Dubuc	Parti québécois	Marie-Annick 	Fortin
+33	Dubuc	Parti libéral du Québec/Quebec Liberal Party	Serge 	Simard
+34	Duplessis	Parti conservateur du Québec / Conservative Party of Québec	Alexandre 	Leblanc
+34	Duplessis	Parti libéral du Québec/Quebec Liberal Party	Laurence 	Méthot
+34	Duplessis	Coalition avenir Québec - L'équipe Franéois Legault	Line 	Cloutier
+34	Duplessis	Parti québécois	Lorraine 	Richard
+34	Duplessis	Québec solidaire	Martine 	Roux
+35	Fabre	Coalition avenir Québec - L'équipe Franéois Legault	Adriana 	Dudas
+35	Fabre	Parti vert du Québec/Green Party of Québec	David 	Gilbert-Parisée
+35	Fabre	Parti conservateur du Québec / Conservative Party of Québec	Juliett Zuniga 	Lopez
+35	Fabre	Nouveau Parti démocratique du Québec	Karim 	Mahmoodi
+35	Fabre	Parti libéral du Québec/Quebec Liberal Party	Monique 	Sauvé
+35	Fabre	Québec solidaire	Nora 	Yata
+35	Fabre	Parti québécois	Odette 	Lavigne
+36	Gaspé	Parti libéral du Québec/Quebec Liberal Party	Alexandre 	Boulay
+36	Gaspé	Québec solidaire	Alexis 	Dumont-Blanchet
+36	Gaspé	Coalition avenir Québec - L'équipe Franéois Legault	Louis 	LeBouthillier
+36	Gaspé	Parti québécois	Méganne Perry 	Mélanéon
+37	Gatineau	Parti marxiste-léniniste du Québec	Alexandre 	Deschénes
+37	Gatineau	Parti vert du Québec/Green Party of Québec	Jasper 	Boychuk
+37	Gatineau	Parti québécois	Jonathan 	Carreiro-Benoit
+37	Gatineau	Parti libéral du Québec/Quebec Liberal Party	Luce 	Farrell
+37	Gatineau	Parti conservateur du Québec / Conservative Party of Québec	Mario 	Belec
+37	Gatineau	Québec solidaire	Milan 	Bernard
+37	Gatineau	Coalition avenir Québec - L'équipe Franéois Legault	Robert 	Bussiére
+38	Gouin	Parti libéral du Québec/Quebec Liberal Party	Alessandra 	Lubrina
+38	Gouin	Parti vert du Québec/Green Party of Québec	Alice 	Sécheresse
+38	Gouin	Bloc pot	Ana da 	Silva
+38	Gouin	Coalition avenir Québec - L'équipe Franéois Legault	Arianne 	Lebel
+38	Gouin	Québec solidaire	Gabriel 	Nadeau-Dubois
+38	Gouin	Parti nul	Jenny 	Cartwright
+38	Gouin	Parti québécois	Olivier 	Gignac
+39	Granby	Québec solidaire	Anne-Sophie 	Legault
+39	Granby	Parti québécois	Chantal 	Beauchemin
+39	Granby	Parti vert du Québec/Green Party of Québec	Daphné 	Poulin
+39	Granby	Coalition avenir Québec - L'équipe Franéois Legault	Franéois 	Bonnardel
+39	Granby	Bloc pot	Kevin 	Robidas
+39	Granby	Parti libéral du Québec/Quebec Liberal Party	Lyne 	Laverdure
+39	Granby	Parti conservateur du Québec / Conservative Party of Québec	Pierre 	Bélanger
+39	Granby	Parti nul	Stéphane 	Deschamps
+40	Groulx	Citoyens au pouvoir du Québec	Chantal 	Lavoie
+40	Groulx	Indépendant(e)	Claude 	Surprenant
+40	Groulx	Coalition avenir Québec - L'équipe Franéois Legault	Eric 	Girard
+40	Groulx	Québec solidaire	Fabien 	Torres
+40	Groulx	Parti québécois	Jean-Philippe 	Meloche
+40	Groulx	Parti vert du Québec/Green Party of Québec	Robin 	Dick
+40	Groulx	Parti libéral du Québec/Quebec Liberal Party	Sabrina 	Chartrand
+40	Groulx	Parti conservateur du Québec / Conservative Party of Québec	Vincent 	Aubé
+41	Hochelaga-Maisonneuve	Québec solidaire	Alexandre 	Leduc
+41	Hochelaga-Maisonneuve	Parti québécois	Carole 	Poirier
+41	Hochelaga-Maisonneuve	Parti marxiste-léniniste du Québec	Christine 	Dandenault
+41	Hochelaga-Maisonneuve	Nouveau Parti démocratique du Québec	Eric-Abel 	Baland
+41	Hochelaga-Maisonneuve	Bloc pot	Etienne 	Mallette
+41	Hochelaga-Maisonneuve	Citoyens au pouvoir du Québec	Gabriel 	Boily
+41	Hochelaga-Maisonneuve	Parti libéral du Québec/Quebec Liberal Party	Julien 	Provencher-Proulx
+41	Hochelaga-Maisonneuve	Parti conservateur du Québec / Conservative Party of Québec	Mathieu 	Beaudoin
+41	Hochelaga-Maisonneuve	Coalition avenir Québec - L'équipe Franéois Legault	Sarah 	Beaumier
+42	Hull	Québec solidaire	Benoit 	Renaud
+42	Hull	Parti conservateur du Québec / Conservative Party of Québec	Jean-Philippe 	Chaussé
+42	Hull	Citoyens au pouvoir du Québec	Marco 	Jetté
+42	Hull	Parti québécois	Marysa 	Nadeau
+42	Hull	Parti libéral du Québec/Quebec Liberal Party	Maryse 	Gaudreault
+42	Hull	Nouveau Parti démocratique du Québec	Nichola 	St-Jean
+42	Hull	Parti vert du Québec/Green Party of Québec	Patricia 	Pilon
+42	Hull	Parti marxiste-léniniste du Québec	Pierre 	Soubliére
+42	Hull	Coalition avenir Québec - L'équipe Franéois Legault	Rachel 	Bourdon
+43	Huntingdon	Québec solidaire	Aiden 	Hodgins-Ravensbergen
+43	Huntingdon	Nouveau Parti démocratique du Québec	Charles 	Orme
+43	Huntingdon	Coalition avenir Québec - L'équipe Franéois Legault	Claire 	Isabelle
+43	Huntingdon	Parti québécois	Huguette 	Hébert
+43	Huntingdon	Parti conservateur du Québec / Conservative Party of Québec	Jérémie 	Ouellette
+43	Huntingdon	Parti libéral du Québec/Quebec Liberal Party	Stéphane 	Billette
+43	Huntingdon	Parti vert du Québec/Green Party of Québec	Victoria Mary 	Haliburton
+44	Iberville	Coalition avenir Québec - L'équipe Franéois Legault	Claire 	Samson
+44	Iberville	Bloc pot	Dany 	Desjardins
+44	Iberville	Nouveau Parti démocratique du Québec	Marc-André 	Renaud
+44	Iberville	Parti vert du Québec/Green Party of Québec	Michelle 	Kolatschek
+44	Iberville	Parti libéral du Québec/Quebec Liberal Party	Myléne 	Gaudreau
+44	Iberville	Parti québécois	Nicolas 	Dionne
+44	Iberville	Québec solidaire	Philippe 	Jetten-Vigeant
+44	Iberville	Parti conservateur du Québec / Conservative Party of Québec	Serge 	Benoit
+45	éles-de-la-Madeleine	Parti québécois	Joél 	Arseneau
+45	éles-de-la-Madeleine	Parti libéral du Québec/Quebec Liberal Party	Maryse 	Lapierre
+45	éles-de-la-Madeleine	Québec solidaire	Robert 	Boudreau-Welsh
+45	éles-de-la-Madeleine	Coalition avenir Québec - L'équipe Franéois Legault	Yves 	Renaud
+46	Jacques-Cartier	Parti vert du Québec/Green Party of Québec	Catherine 	Polson
+46	Jacques-Cartier	Citoyens au pouvoir du Québec	Cynthia 	Bouchard
+46	Jacques-Cartier	Nouveau Parti démocratique du Québec	France 	Séguin
+46	Jacques-Cartier	Parti libéral du Québec/Quebec Liberal Party	Gregory 	Kelley
+46	Jacques-Cartier	Coalition avenir Québec - L'équipe Franéois Legault	Karen 	Hilchey
+46	Jacques-Cartier	Parti conservateur du Québec / Conservative Party of Québec	Louis-Charles 	Fortier
+46	Jacques-Cartier	Parti québécois	Martine 	Bourgeois
+46	Jacques-Cartier	Québec solidaire	Nicolas 	Chatel-Launay
+46	Jacques-Cartier	Indépendant(e)	Teodor 	Daiev
+47	Jean-Lesage	Parti vert du Québec/Green Party of Québec	Alex 	Paradis-Bellefeuille
+47	Jean-Lesage	Parti conservateur du Québec / Conservative Party of Québec	Anne 	Deblois
+47	Jean-Lesage	Parti nul	Charles 	Verreault-Lemieux
+47	Jean-Lesage	Coalition avenir Québec - L'équipe Franéois Legault	Christiane 	Gamache
+47	Jean-Lesage	Parti québécois	Claire 	Vignola
+47	Jean-Lesage	Parti marxiste-léniniste du Québec	Claude 	Moreau
+47	Jean-Lesage	Parti libéral du Québec/Quebec Liberal Party	Gertrude 	Bourdon
+47	Jean-Lesage	Citoyens au pouvoir du Québec	Marie-Pierre 	Deschénes
+47	Jean-Lesage	équipe autonomiste	Nicolas 	Bouffard-Savoie
+47	Jean-Lesage	Nouveau Parti démocratique du Québec	Raymond 	Cété
+47	Jean-Lesage	Québec solidaire	Sol 	Zanetti
+48	Jeanne-Mance-Viger	Parti libéral du Québec/Quebec Liberal Party	Filomena 	Rotiroti
+48	Jeanne-Mance-Viger	Parti marxiste-léniniste du Québec	Garnet 	Colly
+48	Jeanne-Mance-Viger	Québec solidaire	Ismaél 	Seck
+48	Jeanne-Mance-Viger	Parti québécois	Marie-Josée 	Bruneau
+48	Jeanne-Mance-Viger	Coalition avenir Québec - L'équipe Franéois Legault	Sarah 	Petrari
+48	Jeanne-Mance-Viger	Parti conservateur du Québec / Conservative Party of Québec	Sylvain 	Dallaire
+48	Jeanne-Mance-Viger	Parti vert du Québec/Green Party of Québec	Sylvie 	Hétu
+49	Jean-Talon	Indépendant(e)	Ali 	Dahan
+49	Jean-Talon	Parti conservateur du Québec / Conservative Party of Québec	Carl 	Bérubé
+49	Jean-Talon	Parti marxiste-léniniste du Québec	Ginette 	Boutet
+49	Jean-Talon	Nouveau Parti démocratique du Québec	Hamid 	Nadji
+49	Jean-Talon	Coalition avenir Québec - L'équipe Franéois Legault	Joélle 	Boutin
+49	Jean-Talon	Parti vert du Québec/Green Party of Québec	Macarena 	Diab
+49	Jean-Talon	Québec solidaire	Patrick 	Provost
+49	Jean-Talon	Parti libéral du Québec/Quebec Liberal Party	Sébastien 	Proulx
+49	Jean-Talon	équipe autonomiste	Stéphane 	Pouleur
+49	Jean-Talon	Parti québécois	Sylvain 	Barrette
+50	Johnson	Coalition avenir Québec - L'équipe Franéois Legault	André 	Lamontagne
+50	Johnson	Nouveau Parti démocratique du Québec	Andrew 	Leblanc-Marcil
+50	Johnson	Parti vert du Québec/Green Party of Québec	émile 	Coderre
+50	Johnson	Parti libéral du Québec/Quebec Liberal Party	Franéois 	Vaes
+50	Johnson	Parti québécois	Jacques 	Tétreault
+50	Johnson	Parti conservateur du Québec / Conservative Party of Québec	Jean-Franéois 	Vignola
+50	Johnson	Québec solidaire	Sarah Saint-Cyr 	Lanoie
+50	Johnson	Citoyens au pouvoir du Québec	Yves 	Audet
+51	Joliette	Parti libéral du Québec/Quebec Liberal Party	Emilie 	Imbeault
+51	Joliette	Parti vert du Québec/Green Party of Québec	étienne 	St-Jean
+51	Joliette	Coalition avenir Québec - L'équipe Franéois Legault	Franéois 	St-Louis
+51	Joliette	Québec solidaire	Judith 	Sicard
+51	Joliette	Citoyens au pouvoir du Québec	Sébastien 	Dupuis
+51	Joliette	Parti québécois	Véronique 	Hivon
+52	Jonquiére	Parti libéral du Québec/Quebec Liberal Party	Alexandre 	Duguay
+52	Jonquiére	Coalition avenir Québec - L'équipe Franéois Legault	Benoit 	Rochefort
+52	Jonquiére	Parti conservateur du Québec / Conservative Party of Québec	Jimmy 	Voyer
+52	Jonquiére	Parti vert du Québec/Green Party of Québec	Julie 	Sion
+52	Jonquiére	Québec solidaire	Marcel 	Lapointe
+52	Jonquiére	Parti québécois	Sylvain 	Gaudreault
+53	La Peltrie	Québec solidaire	Alexandre 	Jobin-Lawler
+53	La Peltrie	Parti québécois	Doni 	Berberi
+53	La Peltrie	Coalition avenir Québec - L'équipe Franéois Legault	éric 	Caire
+53	La Peltrie	équipe autonomiste	Josée Mélanie 	Michaud
+53	La Peltrie	Parti conservateur du Québec / Conservative Party of Québec	Julie 	Plamondon
+53	La Peltrie	Parti nul	Kevin 	Bouchard
+53	La Peltrie	Parti vert du Québec/Green Party of Québec	Sandra Mara 	Riedo
+53	La Peltrie	Parti libéral du Québec/Quebec Liberal Party	Stéphane 	Lacasse
+53	La Peltrie	Parti 51	Stephen 	Wright
+53	La Peltrie	Citoyens au pouvoir du Québec	Yohann 	Dauphinais
+54	La Piniére	Parti conservateur du Québec / Conservative Party of Québec	Anwar El 	Youbi
+54	La Piniére	Parti vert du Québec/Green Party of Québec	Aziza 	Dini
+54	La Piniére	Nouveau Parti démocratique du Québec	Djaouida 	Sellah
+54	La Piniére	Indépendant(e)	Fang 	Hu
+54	La Piniére	Parti libéral du Québec/Quebec Liberal Party	Gaétan 	Barrette
+54	La Piniére	Québec solidaire	Marie 	Pagés
+54	La Piniére	Indépendant(e)	Patrick 	Hayes
+54	La Piniére	Parti québécois	Suzanne 	Gagnon
+54	La Piniére	Coalition avenir Québec - L'équipe Franéois Legault	Sylvia 	Baronian
+55	La Prairie	Parti conservateur du Québec / Conservative Party of Québec	Alain 	Desmarais
+55	La Prairie	Parti vert du Québec/Green Party of Québec	Alexandre 	Caron
+55	La Prairie	Nouveau Parti démocratique du Québec	Boukare 	Tall
+55	La Prairie	Parti québécois	Cathy 	Lepage
+55	La Prairie	Coalition avenir Québec - L'équipe Franéois Legault	Christian 	Dubé
+55	La Prairie	Québec solidaire	Daniel 	Blouin
+55	La Prairie	Parti 51	Liana 	Minato
+55	La Prairie	Parti marxiste-léniniste du Québec	Normand 	Chouinard
+55	La Prairie	Parti libéral du Québec/Quebec Liberal Party	Richard 	Merlini
+56	Labelle	Coalition avenir Québec - L'équipe Franéois Legault	Chantale 	Jeannotte
+56	Labelle	Parti conservateur du Québec / Conservative Party of Québec	Francis 	Brosseau
+56	Labelle	Québec solidaire	Gabriel 	Dagenais
+56	Labelle	Parti libéral du Québec/Quebec Liberal Party	Nadine 	Riopel
+56	Labelle	Citoyens au pouvoir du Québec	Régis 	Ostigny
+56	Labelle	Parti vert du Québec/Green Party of Québec	René 	Fournier
+56	Labelle	Parti québécois	Sylvain 	Pagé
+57	Lac-Saint-Jean	Coalition avenir Québec - L'équipe Franéois Legault	éric 	Girard
+57	Lac-Saint-Jean	Québec solidaire	Manon 	Girard
+57	Lac-Saint-Jean	Parti libéral du Québec/Quebec Liberal Party	Mathieu 	Huot
+57	Lac-Saint-Jean	équipe autonomiste	Maude Gouin 	Huot
+57	Lac-Saint-Jean	Parti conservateur du Québec / Conservative Party of Québec	Michael 	Grecoff
+57	Lac-Saint-Jean	Parti québécois	William 	Fradette
+58	LaFontaine	Parti conservateur du Québec / Conservative Party of Québec	Caleb 	Lavoie
+58	LaFontaine	Parti québécois	Claude 	Gauthier
+58	LaFontaine	Québec solidaire	David 	Touchette
+58	LaFontaine	Coalition avenir Québec - L'équipe Franéois Legault	Loredana 	Bacchi
+58	LaFontaine	Parti libéral du Québec/Quebec Liberal Party	Marc 	Tanguay
+58	LaFontaine	Parti marxiste-léniniste du Québec	Yves Le 	Seigle
+59	Laporte	Parti québécois	Annie 	Lessard
+59	Laporte	Québec solidaire	Claude 	Lefranéois
+59	Laporte	Coalition avenir Québec - L'équipe Franéois Legault	Jacinthe-Eve 	Arel
+59	Laporte	Parti conservateur du Québec / Conservative Party of Québec	Linda 	Therrien
+59	Laporte	Nouveau Parti démocratique du Québec	Marc André 	Audet
+59	Laporte	Parti libéral du Québec/Quebec Liberal Party	Nicole 	Ménard
+59	Laporte	Parti vert du Québec/Green Party of Québec	Sabrina 	Huet-Cété
+60	L'Assomption	Parti conservateur du Québec / Conservative Party of Québec	Charles-Etienne 	Everitt-Raynault
+60	L'Assomption	Parti vert du Québec/Green Party of Québec	Eve 	Bellavance
+60	L'Assomption	Coalition avenir Québec - L'équipe Franéois Legault	Franéois 	Legault
+60	L'Assomption	Québec solidaire	Marie-Claude 	Briére
+60	L'Assomption	Parti québécois	Sylvie Langlois 	Brouillette
+60	L'Assomption	Citoyens au pouvoir du Québec	Sylvie 	Tougas
+60	L'Assomption	Parti libéral du Québec/Quebec Liberal Party	Virginie 	Bouchard
+61	Laurier-Dorion	Québec solidaire	Andrés 	Fontecilla
+61	Laurier-Dorion	Nouveau Parti démocratique du Québec	Apostolia 	Petropoulos
+61	Laurier-Dorion	Parti marxiste-léniniste du Québec	Arezki 	Malek
+61	Laurier-Dorion	Parti culinaire du Québec	Chef Jean Louis 	Thémis
+61	Laurier-Dorion	Citoyens au pouvoir du Québec	Eric 	Lessard
+61	Laurier-Dorion	Parti libéral du Québec/Quebec Liberal Party	George 	Tsantrizos
+61	Laurier-Dorion	Bloc pot	Hugé 	St-Onge
+61	Laurier-Dorion	Parti vert du Québec/Green Party of Québec	Juan 	Vazquez
+61	Laurier-Dorion	Parti québécois	Marie-Aline 	Vadius
+61	Laurier-Dorion	Parti nul	Mathieu 	Marcil
+61	Laurier-Dorion	Parti conservateur du Québec / Conservative Party of Québec	Mohammad 	Yousuf
+61	Laurier-Dorion	Coalition avenir Québec - L'équipe Franéois Legault	Simon 	Langelier
+62	Laval-des-Rapides	Parti conservateur du Québec / Conservative Party of Québec	Benoit 	Larocque
+62	Laval-des-Rapides	Citoyens au pouvoir du Québec	Bianca 	Bozsodi
+62	Laval-des-Rapides	Coalition avenir Québec - L'équipe Franéois Legault	Christine 	Mitton
+62	Laval-des-Rapides	Parti libre	Elias 	Progakis
+62	Laval-des-Rapides	Parti vert du Québec/Green Party of Québec	Estelle 	Obeo
+62	Laval-des-Rapides	Québec solidaire	Graciela 	Mateo
+62	Laval-des-Rapides	Nouveau Parti démocratique du Québec	Jean Phariste 	Pharicien
+62	Laval-des-Rapides	Parti québécois	Jocelyn 	Caron
+62	Laval-des-Rapides	Parti libéral du Québec/Quebec Liberal Party	Saul 	Polo
+63	Laviolette-Saint-Maurice	Québec solidaire	Christine 	Cardin
+63	Laviolette-Saint-Maurice	Citoyens au pouvoir du Québec	Jacques 	Gosselin
+63	Laviolette-Saint-Maurice	Parti québécois	Jacynthe 	Bruneau
+63	Laviolette-Saint-Maurice	Coalition avenir Québec - L'équipe Franéois Legault	Marie-Louise 	Tardif
+63	Laviolette-Saint-Maurice	Parti libéral du Québec/Quebec Liberal Party	Pierre 	Giguére
+63	Laviolette-Saint-Maurice	Parti conservateur du Québec / Conservative Party of Québec	Ugo 	Hamel
+64	Les Plaines	Parti vert du Québec/Green Party of Québec	Boris 	Geynet
+64	Les Plaines	Québec solidaire	Kévin 	St-Jean
+64	Les Plaines	Coalition avenir Québec - L'équipe Franéois Legault	Lucie 	Lecours
+64	Les Plaines	Parti québécois	Marc-Olivier 	Leblanc
+64	Les Plaines	Parti conservateur du Québec / Conservative Party of Québec	Mathieu 	Laliberté
+64	Les Plaines	Parti libre	Mathieu 	Stevens
+64	Les Plaines	Parti libéral du Québec/Quebec Liberal Party	Vincent 	Orellana-Pepin
+65	Lévis	Parti libéral du Québec/Quebec Liberal Party	Abdulkadir 	Abkey
+65	Lévis	Coalition avenir Québec - L'équipe Franéois Legault	Franéois 	Paradis
+65	Lévis	Québec solidaire	Georges 	Goma
+65	Lévis	Nouveau Parti démocratique du Québec	Lorraine 	Chartier
+65	Lévis	Parti vert du Québec/Green Party of Québec	Maude 	Bussiére
+65	Lévis	Parti conservateur du Québec / Conservative Party of Québec	Michel 	Walters
+65	Lévis	Citoyens au pouvoir du Québec	Nancy 	Fournier
+65	Lévis	Parti québécois	Pierre-Gilles 	Morel
+65	Lévis	Bloc pot	Stéphane 	L'heureux-Blouin
+66	Lotbiniére-Frontenac	Parti 51	Daniel 	Croteau
+66	Lotbiniére-Frontenac	Coalition avenir Québec - L'équipe Franéois Legault	Isabelle 	Lecours
+66	Lotbiniére-Frontenac	Parti vert du Québec/Green Party of Québec	Marie-Claude 	Dextraze
+66	Lotbiniére-Frontenac	Québec solidaire	Normand 	Beaudet
+66	Lotbiniére-Frontenac	Parti libéral du Québec/Quebec Liberal Party	Pierre-Luc 	Daigle
+66	Lotbiniére-Frontenac	Parti conservateur du Québec / Conservative Party of Québec	Réjean 	Labbé
+66	Lotbiniére-Frontenac	Parti québécois	Yohann 	Beaulieu
+66	Lotbiniére-Frontenac	Citoyens au pouvoir du Québec	Yves 	Roy
+67	Louis-Hébert	Nouveau Parti démocratique du Québec	Caroline 	Cété
+67	Louis-Hébert	Parti vert du Québec/Green Party of Québec	Daydree 	Vendette
+67	Louis-Hébert	Coalition avenir Québec - L'équipe Franéois Legault	Geneviéve 	Guilbault
+67	Louis-Hébert	Québec solidaire	Guillaume 	Boivin
+67	Louis-Hébert	équipe autonomiste	Jean-Luc 	Rouckout
+67	Louis-Hébert	Parti libéral du Québec/Quebec Liberal Party	Julie-Maude 	Perron
+67	Louis-Hébert	Parti conservateur du Québec / Conservative Party of Québec	Natalie 	Bjerke
+67	Louis-Hébert	Parti québécois	Normand 	Beauregard
+67	Louis-Hébert	Indépendant(e)	Vincent 	Bégin
+68	Marguerite-Bourgeoys	Québec solidaire	Camille 	St-Laurent
+68	Marguerite-Bourgeoys	Parti libéral du Québec/Quebec Liberal Party	Héléne 	David
+68	Marguerite-Bourgeoys	Parti québécois	Jeannot 	Desbiens
+68	Marguerite-Bourgeoys	Nouveau Parti démocratique du Québec	Nashaat 	Elsayed
+68	Marguerite-Bourgeoys	Parti vert du Québec/Green Party of Québec	Smail 	Louardiane
+68	Marguerite-Bourgeoys	Coalition avenir Québec - L'équipe Franéois Legault	Vicky 	Michaud
+69	Marie-Victorin	Québec solidaire	Carl 	Lévesque
+69	Marie-Victorin	Parti québécois	Catherine 	Fournier
+69	Marie-Victorin	équipe autonomiste	Florent 	Portron
+69	Marie-Victorin	Parti vert du Québec/Green Party of Québec	Laeticia 	Poiré-Hill
+69	Marie-Victorin	Coalition avenir Québec - L'équipe Franéois Legault	Martyne 	Prévost
+69	Marie-Victorin	Nouveau Parti démocratique du Québec	Myriam de 	Grandpré-Ruel
+69	Marie-Victorin	Parti marxiste-léniniste du Québec	Pierre 	Chénier
+69	Marie-Victorin	Changement intégrité pour notre Québec	Shirley 	Cedent
+69	Marie-Victorin	Parti libéral du Québec/Quebec Liberal Party	Sonia 	Ziadé
+70	Marquette	Québec solidaire	Anick 	Perreault
+70	Marquette	Parti québécois	Carole 	Vincent
+70	Marquette	Parti libéral du Québec/Quebec Liberal Party	Enrico 	Ciccone
+70	Marquette	Nouveau Parti démocratique du Québec	John 	Symon
+70	Marquette	Parti vert du Québec/Green Party of Québec	Kimberly 	Salt
+70	Marquette	Coalition avenir Québec - L'équipe Franéois Legault	Marc 	Hétu
+70	Marquette	Parti conservateur du Québec / Conservative Party of Québec	Olivia 	Boye
+70	Marquette	Citoyens au pouvoir du Québec	Patrick 	Desjardins
+70	Marquette	Indépendant(e)	Roger 	Déry
+71	Maskinongé	Citoyens au pouvoir du Québec	Alain 	Bélanger
+71	Maskinongé	Parti vert du Québec/Green Party of Québec	Amélie 	St-Yves
+71	Maskinongé	Indépendant(e)	Jonathan Beaulieu 	Richard
+71	Maskinongé	Parti libéral du Québec/Quebec Liberal Party	Marc H. 	Plante
+71	Maskinongé	Parti conservateur du Québec / Conservative Party of Québec	Maxime 	Rousseau
+71	Maskinongé	Parti québécois	Nicole 	Morin
+71	Maskinongé	Coalition avenir Québec - L'équipe Franéois Legault	Simon 	Allaire
+71	Maskinongé	Québec solidaire	Simon 	Piotte
+72	Masson	Parti conservateur du Québec / Conservative Party of Québec	David 	Morin
+72	Masson	Parti québécois	Diane Gadoury 	Hamelin
+72	Masson	Parti libéral du Québec/Quebec Liberal Party	Maryanne 	Beauchamp
+72	Masson	Coalition avenir Québec - L'équipe Franéois Legault	Mathieu 	Lemay
+72	Masson	Québec solidaire	Stephane 	Durupt
+72	Masson	Parti vert du Québec/Green Party of Québec	Véronique 	Dubois
+73	Matane-Matapédia	Parti libéral du Québec/Quebec Liberal Party	Annie 	Fournier
+73	Matane-Matapédia	Citoyens au pouvoir du Québec	Jocelyn 	Rioux
+73	Matane-Matapédia	Québec solidaire	Marie-Phare 	Boucher
+73	Matane-Matapédia	Coalition avenir Québec - L'équipe Franéois Legault	Mathieu 	Quenum
+73	Matane-Matapédia	Parti québécois	Pascal 	Bérubé
+73	Matane-Matapédia	Parti conservateur du Québec / Conservative Party of Québec	Paul-émile 	Vignola
+73	Matane-Matapédia	Parti vert du Québec/Green Party of Québec	Pierre-Luc 	Coulombe
+74	Maurice-Richard	Citoyens au pouvoir du Québec	Daniel 	St-Hilaire
+74	Maurice-Richard	Parti québécois	Frédéric 	Lapointe
+74	Maurice-Richard	Parti vert du Québec/Green Party of Québec	Gilles 	Fournelle
+74	Maurice-Richard	Nouveau Parti démocratique du Québec	Jean 	Rémillard
+74	Maurice-Richard	Parti nul	Manon 	Dupuis
+74	Maurice-Richard	Coalition avenir Québec - L'équipe Franéois Legault	Manon 	Gauthier
+74	Maurice-Richard	Parti libéral du Québec/Quebec Liberal Party	Marie 	Montpetit
+74	Maurice-Richard	Bloc pot	Morgan 	Ali
+74	Maurice-Richard	Québec solidaire	Raphaél 	Rebelo
+75	Mégantic	Québec solidaire	Andrée 	Larrivée
+75	Mégantic	Coalition avenir Québec - L'équipe Franéois Legault	Franéois 	Jacques
+75	Mégantic	Parti québécois	Gloriane 	Blais
+75	Mégantic	Citoyens au pouvoir du Québec	Richard 	Veilleux
+75	Mégantic	Parti libéral du Québec/Quebec Liberal Party	Robert G. 	Roy
+75	Mégantic	Parti vert du Québec/Green Party of Québec	Sylvain 	Dodier
+76	Mercier	Nouveau Parti démocratique du Québec	Conrad 	Thompson
+76	Mercier	Parti libéral du Québec/Quebec Liberal Party	Gabrielle 	Collu
+76	Mercier	Coalition avenir Québec - L'équipe Franéois Legault	Johanne 	Gagné
+76	Mercier	Parti conservateur du Québec / Conservative Party of Québec	Ludovic 	Proulx
+76	Mercier	Parti nul	Malou 	Marcil
+76	Mercier	Parti québécois	Michelle 	Blanc
+76	Mercier	Québec solidaire	Ruba 	Ghazal
+76	Mercier	Parti marxiste-léniniste du Québec	Serge 	Lachapelle
+76	Mercier	Parti vert du Québec/Green Party of Québec	Stephanie 	Rochemont
+77	Mille-éles	Parti vert du Québec/Green Party of Québec	Alain 	Joseph
+77	Mille-éles	Parti libre	Dwayne 	Cappelletti
+77	Mille-éles	Parti libéral du Québec/Quebec Liberal Party	Francine 	Charbonneau
+77	Mille-éles	Bloc pot	Jason 	D'Aoust
+77	Mille-éles	Québec solidaire	Jean 	Trudelle
+77	Mille-éles	Coalition avenir Québec - L'équipe Franéois Legault	Mauro 	Barone
+77	Mille-éles	Parti québécois	Michel 	Lachance
+78	Mirabel	Parti libéral du Québec/Quebec Liberal Party	Camille Arsenault 	Brideau
+78	Mirabel	Parti québécois	Denise 	Beaudoin
+78	Mirabel	Parti conservateur du Québec / Conservative Party of Québec	Désiré 	Mounanga
+78	Mirabel	Parti vert du Québec/Green Party of Québec	émilie 	Paiement
+78	Mirabel	Québec solidaire	Marjolaine 	Goudreau
+78	Mirabel	Changement intégrité pour notre Québec	Patricia 	Vaca
+78	Mirabel	Coalition avenir Québec - L'équipe Franéois Legault	Sylvie 	D'Amours
+78	Mirabel	Bloc pot	Vincent 	Laurin
+79	Montarville	Québec solidaire	Caroline 	Charette
+79	Montarville	Parti québécois	Daniel 	Michelin
+79	Montarville	Bloc pot	Jean 	Dury
+79	Montarville	Nouveau Parti démocratique du Québec	Lise 	Roy
+79	Montarville	Parti libéral du Québec/Quebec Liberal Party	Ludovic Grisé 	Farand
+79	Montarville	Coalition avenir Québec - L'équipe Franéois Legault	Nathalie 	Roy
+80	Montmorency	Parti québécois	Alexandre 	Huot
+80	Montmorency	Parti conservateur du Québec / Conservative Party of Québec	Daniel 	Beaulieu
+80	Montmorency	Parti marxiste-léniniste du Québec	Jean 	Bédard
+80	Montmorency	Coalition avenir Québec - L'équipe Franéois Legault	Jean-Franéois 	Simard
+80	Montmorency	Indépendant(e)	Jean-Franéois 	Simard
+80	Montmorency	Parti libéral du Québec/Quebec Liberal Party	Marie France 	Trudel
+80	Montmorency	Québec solidaire	Marie-Christine 	Lamontagne
+80	Montmorency	Parti vert du Québec/Green Party of Québec	Nicholas 	Lescarbeau
+81	Mont-Royal-Outremont	Coalition avenir Québec - L'équipe Franéois Legault	Anne-Marie 	Gagnon
+81	Mont-Royal-Outremont	Parti québécois	Caroline 	Labelle
+81	Mont-Royal-Outremont	Québec solidaire	Eve 	Torres
+81	Mont-Royal-Outremont	Parti marxiste-léniniste du Québec	Normand 	Fournier
+81	Mont-Royal-Outremont	Parti libéral du Québec/Quebec Liberal Party	Pierre 	Arcand
+81	Mont-Royal-Outremont	Nouveau Parti démocratique du Québec	Rebecca Anne 	Clark
+81	Mont-Royal-Outremont	Parti vert du Québec/Green Party of Québec	Vincent J. 	Carbonneau
+81	Mont-Royal-Outremont	Parti conservateur du Québec / Conservative Party of Québec	Yaakov 	Pollak
+82	Nelligan	Coalition avenir Québec - L'équipe Franéois Legault	Angela 	Rapoport
+82	Nelligan	Parti québécois	Chantal 	Legendre
+82	Nelligan	Parti vert du Québec/Green Party of Québec	Giuseppe 	Cammarrota
+82	Nelligan	Nouveau Parti démocratique du Québec	Leslie Eric 	Murphy
+82	Nelligan	Parti conservateur du Québec / Conservative Party of Québec	Mathew 	Levitsky-Kaminski
+82	Nelligan	Parti libéral du Québec/Quebec Liberal Party	Monsef 	Derraji
+82	Nelligan	Québec solidaire	Simon 	Tremblay-Pepin
+83	Nicolet-Bécancour	Bloc pot	Blak D. 	Blackburn
+83	Nicolet-Bécancour	Coalition avenir Québec - L'équipe Franéois Legault	Donald 	Martel
+83	Nicolet-Bécancour	Québec solidaire	Franéois 	Poisson
+83	Nicolet-Bécancour	Parti conservateur du Québec / Conservative Party of Québec	Jessie Mc 	Nicoll
+83	Nicolet-Bécancour	Parti québécois	Lucie 	Allard
+83	Nicolet-Bécancour	Parti libéral du Québec/Quebec Liberal Party	Marie-Claude 	Durand
+83	Nicolet-Bécancour	Parti vert du Québec/Green Party of Québec	Vincent 	Marcotte
+84	Notre-Dame-de-Gréce	Parti vert du Québec/Green Party of Québec	Chad 	Walcott
+84	Notre-Dame-de-Gréce	Indépendant(e)	Cynthia 	Nichols
+84	Notre-Dame-de-Gréce	Nouveau Parti démocratique du Québec	David-Roger 	Gagnon
+84	Notre-Dame-de-Gréce	Québec solidaire	Kathleen 	Gudmundsson
+84	Notre-Dame-de-Gréce	Parti libéral du Québec/Quebec Liberal Party	Kathleen 	Weil
+84	Notre-Dame-de-Gréce	Parti québécois	Lucie 	Bélanger
+84	Notre-Dame-de-Gréce	Coalition avenir Québec - L'équipe Franéois Legault	Nathalie 	Dansereau
+84	Notre-Dame-de-Gréce	Parti marxiste-léniniste du Québec	Rachel 	Hoffman
+84	Notre-Dame-de-Gréce	Parti conservateur du Québec / Conservative Party of Québec	Souhail 	Ftouh
+85	Orford	Québec solidaire	Annabelle 	Lalumiére-Ting
+85	Orford	Coalition avenir Québec - L'équipe Franéois Legault	Gilles 	Bélanger
+85	Orford	Parti libéral du Québec/Quebec Liberal Party	Guy 	Madore
+85	Orford	Parti conservateur du Québec / Conservative Party of Québec	Joseph 	Tremblay-Bonsens
+85	Orford	Parti québécois	Maxime 	Leclerc
+85	Orford	Parti vert du Québec/Green Party of Québec	Stéphanie 	Desmeules
+85	Orford	Citoyens au pouvoir du Québec	Tommy 	Poulin
+86	Papineau	Parti libéral du Québec/Quebec Liberal Party	Alexandre 	Iracé
+86	Papineau	Parti 51	Claude 	Flaus
+86	Papineau	Parti nul	Isabelle 	Yde
+86	Papineau	Parti conservateur du Québec / Conservative Party of Québec	Joanne 	Godin
+86	Papineau	Citoyens au pouvoir du Québec	Lynn 	Boyer
+86	Papineau	Coalition avenir Québec - L'équipe Franéois Legault	Mathieu 	Lacombe
+86	Papineau	Québec solidaire	Mélanie 	Pilon-Gauvin
+86	Papineau	Parti vert du Québec/Green Party of Québec	Michel 	Tardif
+86	Papineau	Parti québécois	Yves 	Destroismaisons
+87	Pointe-aux-Trembles	Québec solidaire	Céline 	Pereira
+87	Pointe-aux-Trembles	Coalition avenir Québec - L'équipe Franéois Legault	Chantal 	Rouleau
+87	Pointe-aux-Trembles	Parti libéral du Québec/Quebec Liberal Party	Eric 	Ouellette
+87	Pointe-aux-Trembles	Parti marxiste-léniniste du Québec	Geneviéve 	Royer
+87	Pointe-aux-Trembles	Parti québécois	Jean-Martin 	Aussant
+87	Pointe-aux-Trembles	équipe autonomiste	Louis 	Chandonnet
+87	Pointe-aux-Trembles	Bloc pot	Pierre 	Surette
+88	Pontiac	Parti libéral du Québec/Quebec Liberal Party	André 	Fortin
+88	Pontiac	Québec solidaire	Julia 	Wilkie
+88	Pontiac	Parti conservateur du Québec / Conservative Party of Québec	Kenny 	Roy
+88	Pontiac	Parti marxiste-léniniste du Québec	Louis 	Lang
+88	Pontiac	Parti québécois	Marie-Claire 	Nivolon
+88	Pontiac	Coalition avenir Québec - L'équipe Franéois Legault	Olive 	Kamanyana
+88	Pontiac	Parti vert du Québec/Green Party of Québec	Roger 	Fleury
+88	Pontiac	Nouveau Parti démocratique du Québec	Samuel 	Gendron
+89	Portneuf	Parti québécois	Christian 	Hébert
+89	Portneuf	Citoyens au pouvoir du Québec	Constance 	Guimont
+89	Portneuf	Parti conservateur du Québec / Conservative Party of Québec	Guy 	Morin
+89	Portneuf	Québec solidaire	Odile 	Pelletier
+89	Portneuf	Parti libéral du Québec/Quebec Liberal Party	Philippe 	Gasse
+89	Portneuf	Coalition avenir Québec - L'équipe Franéois Legault	Vincent 	Caron
+90	Prévost	Québec solidaire	Lucie 	Mayer
+90	Prévost	Parti conservateur du Québec / Conservative Party of Québec	Malcolm 	Mulcahy
+90	Prévost	Coalition avenir Québec - L'équipe Franéois Legault	Marguerite 	Blais
+90	Prévost	Parti libre	Michel 	Leclerc
+90	Prévost	Parti libéral du Québec/Quebec Liberal Party	Naémie 	Goyette
+90	Prévost	Parti québécois	Paul St-Pierre 	Plamondon
+91	René-Lévesque	Coalition avenir Québec - L'équipe Franéois Legault	André 	Desrosiers
+91	René-Lévesque	Parti conservateur du Québec / Conservative Party of Québec	Eric 	Barnabé
+91	René-Lévesque	Parti libéral du Québec/Quebec Liberal Party	Jonathan 	Lapointe
+91	René-Lévesque	Parti québécois	Martin 	Ouellet
+91	René-Lévesque	Québec solidaire	Sandrine 	Bourque
+92	Repentigny	Parti vert du Québec/Green Party of Québec	Chafika 	Hebib
+92	Repentigny	Parti libéral du Québec/Quebec Liberal Party	Emilie 	Therrien
+92	Repentigny	Parti québécois	Eric 	Tremblay
+92	Repentigny	Citoyens au pouvoir du Québec	Julie 	Girard
+92	Repentigny	Coalition avenir Québec - L'équipe Franéois Legault	Lise 	Lavallée
+92	Repentigny	Québec solidaire	Olivier 	Huard
+92	Repentigny	Parti conservateur du Québec / Conservative Party of Québec	Pierre 	Lacombe
+93	Richelieu	Coalition avenir Québec - L'équipe Franéois Legault	Jean-Bernard 	Emond
+93	Richelieu	Parti vert du Québec/Green Party of Québec	Ksenia 	Svetoushkina
+93	Richelieu	Parti conservateur du Québec / Conservative Party of Québec	Patrick 	Corriveau
+93	Richelieu	Parti libéral du Québec/Quebec Liberal Party	Sophie 	Chevalier
+93	Richelieu	Québec solidaire	Sophie Pagé 	Sabourin
+93	Richelieu	Parti québécois	Sylvain 	Rochon
+94	Richmond	Coalition avenir Québec - L'équipe Franéois Legault	André 	Bachand
+94	Richmond	Parti libéral du Québec/Quebec Liberal Party	Annie 	Godbout
+94	Richmond	Québec solidaire	Colombe 	Landry
+94	Richmond	Citoyens au pouvoir du Québec	Déitane 	Gendron
+94	Richmond	Parti conservateur du Québec / Conservative Party of Québec	Karl 	Brousseau
+94	Richmond	Parti québécois	Véronique 	Vigneault
+94	Richmond	Parti vert du Québec/Green Party of Québec	Yves La 	Madeleine
+95	Rimouski	Parti vert du Québec/Green Party of Québec	Alexie 	Plourde
+95	Rimouski	Québec solidaire	Carol-Ann 	Kack
+95	Rimouski	Parti libéral du Québec/Quebec Liberal Party	Claude 	Laroche
+95	Rimouski	Bloc pot	Dany 	Levesque
+95	Rimouski	Indépendant(e)	Denis 	Bélanger
+95	Rimouski	Parti québécois	Harold 	Lebel
+95	Rimouski	Coalition avenir Québec - L'équipe Franéois Legault	Nancy 	Levesque
+96	Riviére-du-Loup-Témiscouata	Coalition avenir Québec - L'équipe Franéois Legault	Denis 	Tardif
+96	Riviére-du-Loup-Témiscouata	Québec solidaire	Goulimine Sylvie 	Cadéret
+96	Riviére-du-Loup-Témiscouata	Parti libéral du Québec/Quebec Liberal Party	Jean 	D'Amour
+96	Riviére-du-Loup-Témiscouata	Parti conservateur du Québec / Conservative Party of Québec	Martin 	Perron
+96	Riviére-du-Loup-Témiscouata	Parti québécois	Vincent 	Couture
+97	Robert-Baldwin	Parti libéral du Québec/Quebec Liberal Party	Carlos J. 	Leitéo
+97	Robert-Baldwin	Parti vert du Québec/Green Party of Québec	Catherine 	Richardson
+97	Robert-Baldwin	Coalition avenir Québec - L'équipe Franéois Legault	Laura 	Azéroual
+97	Robert-Baldwin	Nouveau Parti démocratique du Québec	Luca 	Brown
+97	Robert-Baldwin	Parti québécois	Marie-Imalta 	Pierre-Lys
+97	Robert-Baldwin	Parti conservateur du Québec / Conservative Party of Québec	Michael-Louis 	Coppa
+97	Robert-Baldwin	Québec solidaire	Zachary 	Williams
+98	Roberval	Parti conservateur du Québec / Conservative Party of Québec	Carl 	Lamontagne
+98	Roberval	Coalition avenir Québec - L'équipe Franéois Legault	Denise 	Trudel
+98	Roberval	Citoyens au pouvoir du Québec	Julie 	Boucher
+98	Roberval	Québec solidaire	Luc-Antoine 	Cauchon
+98	Roberval	Parti nul	Lynda 	Lalancette
+98	Roberval	Parti libéral du Québec/Quebec Liberal Party	Philippe 	Couillard
+98	Roberval	Parti québécois	Thomas 	Gaudreault
+99	Rosemont	Parti libéral du Québec/Quebec Liberal Party	Agata La 	Rosa
+99	Rosemont	Parti conservateur du Québec / Conservative Party of Québec	Alexandra 	Liendo
+99	Rosemont	Parti nul	Catherine 	Raymond-Poirier
+99	Rosemont	Bloc pot	Coralie 	Laperriére
+99	Rosemont	Parti québécois	Jean-Franéois 	Lisée
+99	Rosemont	Parti vert du Québec/Green Party of Québec	Karl 	Dubois
+99	Rosemont	Nouveau Parti démocratique du Québec	Paulina 	Ayala
+99	Rosemont	Coalition avenir Québec - L'équipe Franéois Legault	Sonya 	Cormier
+99	Rosemont	Parti marxiste-léniniste du Québec	Stéphane 	Chénier
+99	Rosemont	Québec solidaire	Vincent 	Marissal
+100	Rousseau	Québec solidaire	Héléne 	Dubé
+100	Rousseau	Coalition avenir Québec - L'équipe Franéois Legault	Louis-Charles 	Thouin
+100	Rousseau	Citoyens au pouvoir du Québec	Michel 	Lacasse
+100	Rousseau	Parti québécois	Nicolas 	Marceau
+100	Rousseau	Parti libéral du Québec/Quebec Liberal Party	Patrick 	Watson
+100	Rousseau	Parti conservateur du Québec / Conservative Party of Québec	Richard 	Evanko
+101	Rouyn-Noranda-Témiscamingue	Québec solidaire	émilise 	Lessard-Therrien
+101	Rouyn-Noranda-Témiscamingue	Citoyens au pouvoir du Québec	Fernand 	St-Georges
+101	Rouyn-Noranda-Témiscamingue	Parti québécois	Gilles 	Chapadeau
+101	Rouyn-Noranda-Témiscamingue	Parti conservateur du Québec / Conservative Party of Québec	Guillaume 	Lanouette
+101	Rouyn-Noranda-Témiscamingue	Coalition avenir Québec - L'équipe Franéois Legault	Jérémy G. 	Bélanger
+101	Rouyn-Noranda-Témiscamingue	Parti vert du Québec/Green Party of Québec	Jessica 	Wells
+101	Rouyn-Noranda-Témiscamingue	Parti libéral du Québec/Quebec Liberal Party	Luc 	Blanchette
+102	Sainte-Marie-Saint-Jacques	Citoyens au pouvoir du Québec	Alexis 	Cossette-Trudel
+102	Sainte-Marie-Saint-Jacques	Parti vert du Québec/Green Party of Québec	Anna 	Calderon
+102	Sainte-Marie-Saint-Jacques	Coalition avenir Québec - L'équipe Franéois Legault	Anna 	Klisko
+102	Sainte-Marie-Saint-Jacques	Parti conservateur du Québec / Conservative Party of Québec	Don 	Ivanski
+102	Sainte-Marie-Saint-Jacques	Bloc pot	Henri 	Ladouceur
+102	Sainte-Marie-Saint-Jacques	Parti québécois	Jennifer 	Drouin
+102	Sainte-Marie-Saint-Jacques	Parti libéral du Québec/Quebec Liberal Party	Louis 	Charron
+102	Sainte-Marie-Saint-Jacques	Québec solidaire	Manon 	Massé
+103	Sainte-Rose	Nouveau Parti démocratique du Québec	Alain 	Giguére
+103	Sainte-Rose	Parti conservateur du Québec / Conservative Party of Québec	Benoit 	Blanchard
+103	Sainte-Rose	Parti vert du Québec/Green Party of Québec	Caroline 	Bergevin
+103	Sainte-Rose	Coalition avenir Québec - L'équipe Franéois Legault	Christopher 	Skeete
+103	Sainte-Rose	Parti libéral du Québec/Quebec Liberal Party	Jean 	Habel
+103	Sainte-Rose	Parti québécois	Marc-André 	Constantin
+103	Sainte-Rose	Québec solidaire	Simon 	Charron
+103	Sainte-Rose	Changement intégrité pour notre Québec	Valérie 	Louis-Charles
+104	Saint-Franéois	Parti libéral du Québec/Quebec Liberal Party	Charles 	Poulin
+104	Saint-Franéois	Citoyens au pouvoir du Québec	Cyrille Mc 	Elreavy
+104	Saint-Franéois	Coalition avenir Québec - L'équipe Franéois Legault	Geneviéve 	Hébert
+104	Saint-Franéois	Québec solidaire	Kévin 	Cété
+104	Saint-Franéois	Parti vert du Québec/Green Party of Québec	Mathieu 	Morin
+104	Saint-Franéois	Parti québécois	Solange 	Masson
+105	Saint-Henri-Sainte-Anne	Québec solidaire	Benoit 	Racette
+105	Saint-Henri-Sainte-Anne	Parti conservateur du Québec / Conservative Party of Québec	Caroline 	Orchard
+105	Saint-Henri-Sainte-Anne	Changement intégrité pour notre Québec	Christopher 	Young
+105	Saint-Henri-Sainte-Anne	Parti québécois	Dieudonné 	Ella-Oyono
+105	Saint-Henri-Sainte-Anne	Parti libéral du Québec/Quebec Liberal Party	Dominique 	Anglade
+105	Saint-Henri-Sainte-Anne	Bloc pot	Félix 	Gagnon-Paquin
+105	Saint-Henri-Sainte-Anne	Parti vert du Québec/Green Party of Québec	Jean-Pierre 	Duford
+105	Saint-Henri-Sainte-Anne	Parti marxiste-léniniste du Québec	Linda 	Sullivan
+105	Saint-Henri-Sainte-Anne	Nouveau Parti démocratique du Québec	Steven 	Scott
+105	Saint-Henri-Sainte-Anne	Coalition avenir Québec - L'équipe Franéois Legault	Sylvie 	Hamel
+106	Saint-Hyacinthe	Parti libéral du Québec/Quebec Liberal Party	Annie 	Pelletier
+106	Saint-Hyacinthe	Coalition avenir Québec - L'équipe Franéois Legault	Chantal 	Soucy
+106	Saint-Hyacinthe	Parti québécois	Daniel 	Breton
+106	Saint-Hyacinthe	Nouveau Parti démocratique du Québec	Luc 	Chulak
+106	Saint-Hyacinthe	Québec solidaire	Marijo 	Demers
+107	Saint-Jean	Parti québécois	Dave 	Turcotte
+107	Saint-Jean	Nouveau Parti démocratique du Québec	Geneviéve 	Ruel
+107	Saint-Jean	Coalition avenir Québec - L'équipe Franéois Legault	Louis 	Lemieux
+107	Saint-Jean	Citoyens au pouvoir du Québec	Louis 	St-Jacques
+107	Saint-Jean	Parti conservateur du Québec / Conservative Party of Québec	Philippe 	Perreault
+107	Saint-Jean	Québec solidaire	Simon 	Lalonde
+107	Saint-Jean	Parti libéral du Québec/Quebec Liberal Party	Vanessa 	Parent
+107	Saint-Jean	Parti vert du Québec/Green Party of Québec	Véronique 	Langlois
+108	Saint-Jéréme	Parti vert du Québec/Green Party of Québec	Annabelle 	Desrochers
+108	Saint-Jéréme	Parti libéral du Québec/Quebec Liberal Party	Antoine 	Poulin
+108	Saint-Jéréme	Nouveau Parti démocratique du Québec	Christine 	Simon
+108	Saint-Jéréme	Québec solidaire	éve 	Duhaime
+108	Saint-Jéréme	Parti libre	Giuseppe 	Starnino
+108	Saint-Jéréme	Parti québécois	Marc 	Bourcier
+108	Saint-Jéréme	Parti conservateur du Québec / Conservative Party of Québec	Normand 	Michaud
+108	Saint-Jéréme	Citoyens au pouvoir du Québec	Sylvie 	Brien
+108	Saint-Jéréme	Coalition avenir Québec - L'équipe Franéois Legault	Youri 	Chassin
+109	Saint-Laurent	Parti québécois	Elias Dib 	Nicolas
+109	Saint-Laurent	Parti marxiste-léniniste du Québec	Fernand 	Deschamps
+109	Saint-Laurent	Parti conservateur du Québec / Conservative Party of Québec	Guy 	Morissette
+109	Saint-Laurent	Parti vert du Québec/Green Party of Québec	Halimatou 	Bah
+109	Saint-Laurent	Nouveau Parti démocratique du Québec	Jacques 	Dago
+109	Saint-Laurent	Coalition avenir Québec - L'équipe Franéois Legault	Marc 	Baaklini
+109	Saint-Laurent	Québec solidaire	Marie Joséphe 	Pigeon
+109	Saint-Laurent	Parti libéral du Québec/Quebec Liberal Party	Marwah 	Rizqy
+110	Sanguinet	Parti québécois	Alain 	Therrien
+110	Sanguinet	Parti vert du Québec/Green Party of Québec	Antonino 	Geraci
+110	Sanguinet	Coalition avenir Québec - L'équipe Franéois Legault	Danielle 	McCann
+110	Sanguinet	Parti marxiste-léniniste du Québec	Héléne 	Héroux
+110	Sanguinet	Parti libéral du Québec/Quebec Liberal Party	Marcelina 	Jugureanu
+110	Sanguinet	Québec solidaire	Maya 	Fréchette-Bonnier
+110	Sanguinet	Parti conservateur du Québec / Conservative Party of Québec	Nikolai 	Grigoriev
+111	Sherbrooke	Coalition avenir Québec - L'équipe Franéois Legault	Bruno 	Vachon
+111	Sherbrooke	Québec solidaire	Christine 	Labrie
+111	Sherbrooke	Citoyens au pouvoir du Québec	éric 	Lebrasseur
+111	Sherbrooke	Parti québécois	Guillaume 	Rousseau
+111	Sherbrooke	Bloc pot	Jossy 	Roy
+111	Sherbrooke	Parti libéral du Québec/Quebec Liberal Party	Luc 	Fortin
+111	Sherbrooke	Indépendant(e)	Luc 	Lainé
+111	Sherbrooke	Parti vert du Québec/Green Party of Québec	Marie-Maud 	Cété-Rouleau
+111	Sherbrooke	Nouveau Parti démocratique du Québec	Mona 	Louis-Jean
+111	Sherbrooke	Indépendant(e)	Patrick 	Tétreault
+111	Sherbrooke	Parti nul	Sara 	Richard
+112	Soulanges	Parti vert du Québec/Green Party of Québec	Bianca 	Jitaru
+112	Soulanges	Citoyens au pouvoir du Québec	Dominik 	Prud'homme
+112	Soulanges	Nouveau Parti démocratique du Québec	Etienne 	Madelein
+112	Soulanges	Parti conservateur du Québec / Conservative Party of Québec	Felice 	Trombino
+112	Soulanges	Bloc pot	Jean-Patrick 	Berthiaume
+112	Soulanges	Parti libéral du Québec/Quebec Liberal Party	Lucie 	Charlebois
+112	Soulanges	Coalition avenir Québec - L'équipe Franéois Legault	Marilyne 	Picard
+112	Soulanges	Québec solidaire	Maxime 	Larue-Bourdages
+112	Soulanges	équipe autonomiste	Patrick 	Marquis
+112	Soulanges	Parti québécois	Samuelle 	D.-Henry
+113	Taillon	Parti québécois	Diane 	Lamarre
+113	Taillon	Parti conservateur du Québec / Conservative Party of Québec	Gerardin 	Verty
+113	Taillon	Nouveau Parti démocratique du Québec	Jonathan 	Leduc
+113	Taillon	Coalition avenir Québec - L'équipe Franéois Legault	Lionel 	Carmant
+113	Taillon	Québec solidaire	Manon 	Blanchard
+113	Taillon	Parti vert du Québec/Green Party of Québec	Mel-Lyna Cadieux 	Walker
+113	Taillon	Parti libéral du Québec/Quebec Liberal Party	Mohammed 	Barhone
+114	Taschereau	Québec solidaire	Catherine 	Dorion
+114	Taschereau	Citoyens au pouvoir du Québec	Christian 	Lavoie
+114	Taschereau	Parti québécois	Diane 	Lavallée
+114	Taschereau	Parti vert du Québec/Green Party of Québec	élisabeth 	Grégoire
+114	Taschereau	Parti libéral du Québec/Quebec Liberal Party	Florent 	Tanlet
+114	Taschereau	équipe autonomiste	Guy 	Boivin
+114	Taschereau	Parti nul	Nicolas 	Pouliot
+114	Taschereau	Nouveau Parti démocratique du Québec	Roger 	Duguay
+115	Taschereau	Coalition avenir Québec - L'équipe Franéois Legault	Svetlana 	Solomykina
+115	Terrebonne	Québec solidaire	Anne 	B-Godbout
+115	Terrebonne	Parti vert du Québec/Green Party of Québec	Carole 	Dubois
+115	Terrebonne	Parti conservateur du Québec / Conservative Party of Québec	Jules 	Néron
+115	Terrebonne	Parti libéral du Québec/Quebec Liberal Party	Margaux 	Selam
+115	Terrebonne	Citoyens au pouvoir du Québec	Mathieu 	Goyette
+115	Terrebonne	Parti québécois	Mathieu 	Traversy
+115	Terrebonne	Coalition avenir Québec - L'équipe Franéois Legault	Pierre 	Fitzgibbon
+116	Trois-Riviéres	Parti vert du Québec/Green Party of Québec	Adis 	Simidzija
+116	Trois-Riviéres	Parti conservateur du Québec / Conservative Party of Québec	Daniel 	Hénault
+116	Trois-Riviéres	Coalition avenir Québec - L'équipe Franéois Legault	Jean 	Boulet
+116	Trois-Riviéres	Parti libéral du Québec/Quebec Liberal Party	Jean-Denis 	Girard
+116	Trois-Riviéres	Parti québécois	Marie-Claude 	Camirand
+117	Trois-Riviéres	Québec solidaire	Valérie 	Delage
+117	Ungava	Parti conservateur du Québec / Conservative Party of Québec	Alexandre 	Croteau
+117	Ungava	Québec solidaire	Alisha 	Tukkiapik
+117	Ungava	Parti vert du Québec/Green Party of Québec	Cristina 	Roos
+117	Ungava	Coalition avenir Québec - L'équipe Franéois Legault	Denis 	Lamothe
+117	Ungava	Parti libéral du Québec/Quebec Liberal Party	Jean 	Boucher
+117	Ungava	Parti québécois	Jonathan 	Mattson
+117	Ungava	Nouveau Parti démocratique du Québec	Louis R. 	Couture
+118	Vachon	Québec solidaire	André 	Vincent
+118	Vachon	Bloc pot	Hugo 	Bluntss
+118	Vachon	Coalition avenir Québec - L'équipe Franéois Legault	Ian 	Lafreniére
+118	Vachon	Nouveau Parti démocratique du Québec	Ian 	Lecourtois
+118	Vachon	Parti libéral du Québec/Quebec Liberal Party	Linda 	Caron
+118	Vachon	Parti conservateur du Québec / Conservative Party of Québec	Lise des 	Greniers
+118	Vachon	Parti québécois	Patrick 	Ney
+118	Vachon	Citoyens au pouvoir du Québec	Stéphane 	Marginean
+119	Vanier-Les Riviéres	Parti conservateur du Québec / Conservative Party of Québec	Alain 	Fortin
+119	Vanier-Les Riviéres	Indépendant(e)	Carl 	Cété
+119	Vanier-Les Riviéres	Parti nul	Carl-André 	Poliquin
+119	Vanier-Les Riviéres	Citoyens au pouvoir du Québec	David 	Dallaire
+119	Vanier-Les Riviéres	Coalition avenir Québec - L'équipe Franéois Legault	Mario 	Asselin
+119	Vanier-Les Riviéres	Québec solidaire	Monique 	Voisine
+119	Vanier-Les Riviéres	Parti libéral du Québec/Quebec Liberal Party	Patrick 	Huot
+119	Vanier-Les Riviéres	Parti vert du Québec/Green Party of Québec	Samuel 	Raymond
+119	Vanier-Les Riviéres	Parti québécois	William 	Duquette
+120	Vaudreuil	Bloc pot	Camille 	Piché-Jetté
+120	Vaudreuil	Coalition avenir Québec - L'équipe Franéois Legault	Claude 	Bourbonnais
+120	Vaudreuil	Citoyens au pouvoir du Québec	Daniel 	Pilon
+120	Vaudreuil	Québec solidaire	Igor 	Erchov
+120	Vaudreuil	Parti vert du Québec/Green Party of Québec	Jason 	Mossa
+120	Vaudreuil	Parti libéral du Québec/Quebec Liberal Party	Marie-Claude 	Nichols
+120	Vaudreuil	Parti québécois	Philip 	Lapalme
+120	Vaudreuil	Parti conservateur du Québec / Conservative Party of Québec	Ryan 	Robertson
+120	Vaudreuil	Nouveau Parti démocratique du Québec	Ryan 	Young
+121	Verchéres	Parti libéral du Québec/Quebec Liberal Party	Agnieszka 	Wnorowska
+121	Verchéres	Québec solidaire	Jean-René 	Péloquin
+121	Verchéres	Parti conservateur du Québec / Conservative Party of Québec	Lisette 	Benoit
+121	Verchéres	Parti vert du Québec/Green Party of Québec	Pierre-Olivier 	Downey
+121	Verchéres	Parti québécois	Stéphane 	Bergeron
+121	Verchéres	Coalition avenir Québec - L'équipe Franéois Legault	Suzanne 	Dansereau
+121	Verchéres	Nouveau Parti démocratique du Québec	Vincent 	Hillel
+122	Verdun	Parti vert du Québec/Green Party of Québec	Alex 	Tyrrell
+122	Verdun	Parti québécois	Constantin 	Fortier
+122	Verdun	Parti marxiste-léniniste du Québec	Eileen 	Studd
+122	Verdun	Bloc pot	Hugo 	Richard
+122	Verdun	Parti libéral du Québec/Quebec Liberal Party	Isabelle 	Melanéon
+122	Verdun	Parti nul	Marc-André 	Milette
+122	Verdun	Coalition avenir Québec - L'équipe Franéois Legault	Nicole 	Leduc
+122	Verdun	Nouveau Parti démocratique du Québec	Raphaél 	Fortin
+122	Verdun	Québec solidaire	Vanessa 	Roy
+122	Verdun	Parti conservateur du Québec / Conservative Party of Québec	Yedidya-Eitan 	Moryoussef
+123	Viau	Indépendant(e)	Beverly 	Bernardo
+123	Viau	Parti libéral du Québec/Quebec Liberal Party	Frantz 	Benjamin
+123	Viau	Bloc pot	Hugo 	Pépino
+123	Viau	Coalition avenir Québec - L'équipe Franéois Legault	Janny 	Gaspard
+123	Viau	Nouveau Parti démocratique du Québec	Mamoun 	Ahmed
+123	Viau	Parti québécois	Mounddy 	Sanon
+123	Viau	Parti conservateur du Québec / Conservative Party of Québec	Patrick 	St-Onge
+123	Viau	Québec solidaire	Sylvain 	Lafreniére
+124	Vimont	Nouveau Parti démocratique du Québec	Andriana 	Kocini
+124	Vimont	Québec solidaire	Caroline 	Trottier-Gascon
+124	Vimont	Parti libéral du Québec/Quebec Liberal Party	Jean 	Rousselle
+124	Vimont	Indépendant(e)	Jean-Marc 	Boyer
+124	Vimont	Parti vert du Québec/Green Party of Québec	Mélanie 	Messier
+124	Vimont	Coalition avenir Québec - L'équipe Franéois Legault	Michel 	Reeves
+124	Vimont	Citoyens au pouvoir du Québec	Rachel 	Demers
+124	Vimont	Parti conservateur du Québec / Conservative Party of Québec	Rachel 	Landerman
+124	Vimont	Parti québécois	Sylvie 	Moreau
+125	Westmount-Saint-Louis	Québec solidaire	Ekaterina 	Piskunova
+125	Westmount-Saint-Louis	Parti québécois	J. Marion 	Benoit
+125	Westmount-Saint-Louis	Parti libéral du Québec/Quebec Liberal Party	Jennifer 	Maccarone
+125	Westmount-Saint-Louis	Coalition avenir Québec - L'équipe Franéois Legault	Michelle 	Morin
+125	Westmount-Saint-Louis	Parti conservateur du Québec / Conservative Party of Québec	Mikey Colangelo 	Lauzon
+125	Westmount-Saint-Louis	Nouveau Parti démocratique du Québec	Nicholas Peter 	Lawson
+125	Westmount-Saint-Louis	Parti vert du Québec/Green Party of Québec	Samuel Dajakran 	Kuhn
